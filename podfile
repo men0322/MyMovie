@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+target 'MyMovie' do
+use_frameworks!
+pod 'AFNetworking', '~> 2.0'
+pod 'Mantle', '~> 2.0.7'
+end
